@@ -1,0 +1,13 @@
+dao\IAdministrationDao.class
+dao\IBookDao.class
+entities\Administration.class
+controllers\BookController.class
+entities\Book.class
+dao\ImpBookDao.class
+services\IAdministrationService.class
+dao\ImpAdministrationDao.class
+services\ImpAdministrationService.class
+dao\NewHibernateUtil.class
+services\ImpBookService.class
+test.class
+services\IBookService.class
